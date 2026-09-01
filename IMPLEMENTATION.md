@@ -6,7 +6,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add water animation
+- [x] Add koi fish
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
@@ -21,7 +21,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 - [x] Add shortcut creation modal
 - [x] Add shortcut persistence
 - [x] Add pixel water
-- [ ] Add water animation
+- [x] Add water animation
 - [ ] Add koi fish
 - [ ] Add koi swimming
 - [ ] Add cursor-aware koi behavior
