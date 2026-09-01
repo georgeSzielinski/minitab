@@ -6,7 +6,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add YouTube shortcut
+- [x] Add Canvas shortcut
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
@@ -15,7 +15,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 - [x] Add Google search behavior
 - [x] Add URL navigation
 - [x] Add GitHub shortcut
-- [ ] Add YouTube shortcut
+- [x] Add YouTube shortcut
 - [ ] Add Canvas shortcut
 - [ ] Add custom shortcut control
 - [ ] Add shortcut creation modal
