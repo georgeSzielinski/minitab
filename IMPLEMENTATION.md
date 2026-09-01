@@ -6,7 +6,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add moving moon
+- [x] Add Apps button and launcher
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
@@ -30,7 +30,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 - [x] Add moving sun
 - [x] Add evening transition
 - [x] Add nighttime sky and stars
-- [ ] Add moving moon
+- [x] Add moving moon
 - [ ] Add Apps button and launcher
 - [ ] Add calculator app
 - [ ] Add notes app and persistence
