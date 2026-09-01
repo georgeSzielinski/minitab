@@ -6,10 +6,10 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add live clock
+- [x] Add time-based greeting
 - [x] Add base page layout
 - [x] Add MiniTab header
-- [ ] Add live clock
+- [x] Add live clock
 - [ ] Add time-based greeting
 - [ ] Add centered search
 - [ ] Add Google search behavior
