@@ -6,9 +6,9 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add MiniTab header
+- [x] Add live clock
 - [x] Add base page layout
-- [ ] Add MiniTab header
+- [x] Add MiniTab header
 - [ ] Add live clock
 - [ ] Add time-based greeting
 - [ ] Add centered search
