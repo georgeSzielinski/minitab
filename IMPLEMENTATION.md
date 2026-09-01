@@ -6,12 +6,12 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add centered search
+- [x] Add Google search behavior
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
 - [x] Add time-based greeting
-- [ ] Add centered search
+- [x] Add centered search
 - [ ] Add Google search behavior
 - [ ] Add URL navigation
 - [ ] Add GitHub shortcut
