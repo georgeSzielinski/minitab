@@ -6,7 +6,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add moving sun
+- [x] Add evening transition
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
@@ -27,7 +27,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 - [x] Add cursor-aware koi behavior
 - [x] Add koi jump and ripple behavior
 - [x] Add daytime sky
-- [ ] Add moving sun
+- [x] Add moving sun
 - [ ] Add evening transition
 - [ ] Add nighttime sky and stars
 - [ ] Add moving moon
