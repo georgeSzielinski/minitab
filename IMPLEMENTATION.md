@@ -6,7 +6,7 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add tasks app and persistence
+- [x] Add settings and current date
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
@@ -35,6 +35,6 @@ All entries below were checked against the supplied bundle. The final `index.htm
 - [x] Add calculator app
 - [x] Add notes app and persistence
 - [x] Add focus timer controls
-- [ ] Add tasks app and persistence
+- [x] Add tasks app and persistence
 - [ ] Add settings and current date
 - [ ] Match supplied responsive behavior
