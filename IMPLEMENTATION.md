@@ -6,14 +6,14 @@ All entries below were checked against the supplied bundle. The final `index.htm
 
 ## Feature sequence
 
-- [x] Add URL navigation
+- [x] Add GitHub shortcut
 - [x] Add base page layout
 - [x] Add MiniTab header
 - [x] Add live clock
 - [x] Add time-based greeting
 - [x] Add centered search
 - [x] Add Google search behavior
-- [ ] Add URL navigation
+- [x] Add URL navigation
 - [ ] Add GitHub shortcut
 - [ ] Add YouTube shortcut
 - [ ] Add Canvas shortcut
